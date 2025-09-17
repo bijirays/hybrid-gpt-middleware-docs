@@ -1,0 +1,24 @@
+# Privacy Policy
+
+Hybrid GPT Middleware Privacy Policy
+------------------------------------
+
+1. **Data Collection**
+   - Middleware hanya mengakses data pasar (OHLCV, funding, open interest) dari MEXC dan Binance.
+   - Private API bersifat *read-only* untuk menampilkan posisi, balance, dan floating PnL.
+   - Tidak ada data pribadi pengguna yang dikumpulkan.
+
+2. **Data Usage**
+   - Semua data digunakan hanya untuk analisis screening dan desk report.
+   - Tidak ada data yang disimpan permanen di server GPT, middleware, atau pihak ketiga.
+
+3. **Data Sharing**
+   - Data tidak akan dibagikan ke pihak ketiga.
+   - Semua analisa hanya untuk kebutuhan internal prop desk.
+
+4. **Security**
+   - Middleware hanya membaca data publik dari exchange API.
+   - Private API tetap aman karena bersifat *read-only*.
+
+5. **Contact**
+   - Untuk pertanyaan, hubungi admin prop desk.
